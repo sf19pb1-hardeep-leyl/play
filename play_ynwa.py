@@ -8,7 +8,6 @@ import urllib.request
 import playsound
 
 #url = "http://oit2.scps.nyu.edu/~meretzkm/python/string/romeo.txt"
-#url = "https://raw.githubusercontent.com/hardeep-leyl/play/Liverpool_You_ll_Never_Walk_Alone.mp3"
 url = "https://github.com/sf19pb1-hardeep-leyl/play/blob/master/Liverpool_You_ll_Never_Walk_Alone.mp3"
 
 try:
