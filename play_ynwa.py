@@ -17,7 +17,7 @@ except urllib.error.URLError as error:
     print(error, file = sys.stderr)
     sys.exit(1)
 
-#Doesn't work when i call the url but works playinbg a local copy of the mp3
+#Doesn't work when I call the url but works playing a local copy of the mp3
 #playsound.playsound(ynwa, True)
 playsound.playsound(file, True)
 
